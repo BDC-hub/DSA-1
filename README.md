@@ -22,4 +22,15 @@ The primary data source for this project is Traffic Data are open sources.
 - Power Bi for data Visualization and Report Buidlding
 
 ### Data Analysis
-Some basic lines of code are attached to this file
+
+![feature_importance](https://github.com/user-attachments/assets/bb0035fa-db12-4f1a-a07b-8f1a8ac7e7ee)
+
+![Logistic_Regression_confusion_matrix](https://github.com/user-attachments/assets/c8feb94a-c543-4081-a63c-6ab7a0acc4be)
+
+![Decision_Tree_confusion_matrix](https://github.com/user-attachments/assets/2917d770-09a6-4aed-85f6-eb4c0226c86c)
+
+![Random_Forest_confusion_matrix](https://github.com/user-attachments/assets/79e5fdda-6d7e-4825-97f4-76c9a809fde0)
+
+
+![model_performance_comparison](https://github.com/user-attachments/assets/73ab2fbb-2253-46a6-9187-e7ddee8e0715)
+
